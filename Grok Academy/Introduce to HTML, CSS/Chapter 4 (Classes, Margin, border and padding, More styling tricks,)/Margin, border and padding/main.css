@@ -1,0 +1,19 @@
+p{
+  width: 400px;
+  padding: 16px;
+  margin: 0px;
+  border-bottom: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
+}
+
+.unread{
+  background-color: rgb(237, 239, 245);
+}
+
+.name{
+  font-weight: bold;
+}
+
+.timestamp{
+  color: darkgrey;
+}
