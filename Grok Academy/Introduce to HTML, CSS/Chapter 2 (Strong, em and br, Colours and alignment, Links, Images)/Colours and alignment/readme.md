@@ -1,7 +1,7 @@
 # It's not easy being green
 Kermit is experimenting with what shade of green to make the title of his new website, featuring himself.
 
-Each line should be a *heading level 1* element and contain two span elements, and they should be center aligned.
+Each line should be a *heading level 1* element and contain two **span** elements, and they should be **center** aligned.
 
 On the left side you should start with black **rgb(0, 0, 0)**, increasing the green value by 40 each line until you reach a bright green **rgb(0, 240, 0)**.
 
