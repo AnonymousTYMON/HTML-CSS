@@ -1,6 +1,6 @@
 Styling the text of a webpage is critical to the design; choice of margins, spacing and font can make text much easier and pleasanter to read.
 
-Add a <font color="purple"><style></font> element to this page, and set the following properties inside it:
+Add a '''diff+<style>''' element to this page, and set the following properties inside it:
 
 The paragraph text should be 680 pixels wide;
 The paragraph text and heading should have 30 pixels bottom margins and 40 pixels left margins;
