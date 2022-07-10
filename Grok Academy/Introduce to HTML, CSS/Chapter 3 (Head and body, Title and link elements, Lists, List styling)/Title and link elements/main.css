@@ -1,0 +1,19 @@
+img {
+  margin: 30px auto;
+  height: 400px;
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  font-family: Georgia, Times, serif;
+}
+
+p {
+  width: 700px;
+  margin: 30px auto;
+  font-size: 18px;
+  line-height: 1.6;
+  font-family: Georgia, Times, serif;
+  text-align: justify;
+}
