@@ -71,4 +71,4 @@ Use the asterisk: * { box-sizing: border-box; } but make sure it comes after any
 * set the font size to **30px**.
 
 So what is all of this meant to look like, you ask!?:
-!{alt text](https://groklearning-cdn.com/problems/psB3WxU9vFoQ92rgc4tNp9/visual-diff.png)
+![alt text](https://groklearning-cdn.com/problems/psB3WxU9vFoQ92rgc4tNp9/visual-diff.png)
