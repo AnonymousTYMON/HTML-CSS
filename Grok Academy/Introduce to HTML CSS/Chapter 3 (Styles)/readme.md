@@ -1,6 +1,6 @@
 Styling the text of a webpage is critical to the design; choice of margins, spacing and font can make text much easier and pleasanter to read.
 
-Add a '''diff +<style>''' element to this page, and set the following properties inside it:
+Add a **<style>** element to this page, and set the following properties inside it:
 
 The paragraph text should be 680 pixels wide;
 The paragraph text and heading should have 30 pixels bottom margins and 40 pixels left margins;
@@ -10,4 +10,3 @@ The paragraph font size should be 18 pixels, and the heading should be twice tha
 The heading should use the font family **Verdana, Geneva, sans-serif**
 Paragraphs should use the font family **Georgia, Times, serif**
   The span should use the font family <font color="green">'Courier New'</font>, monospace
-<span style="color: green"> Some green text </span>
