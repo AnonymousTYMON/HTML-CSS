@@ -10,3 +10,4 @@ The paragraph font size should be 18 pixels, and the heading should be twice tha
 The heading should use the font family **Verdana, Geneva, sans-serif**
 Paragraphs should use the font family **Georgia, Times, serif**
   The span should use the font family <font color="green">'Courier New'</font>, monospace
+<span style="color: green"> Some green text </span>
