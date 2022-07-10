@@ -4,8 +4,8 @@ This recipe sharing site has too many options in the menus and they're clutterin
 ## Keeping the drop-down lists out of the way
 * Add **position**: **absolute**; to the **nav** > **ul** > **li** > ul elements (The lists inside the menu list) so they appear over the top of other elements.
 ## Add :hover styles
-Make the top level li list items change background colour to **rgb(121, 185, 211)** when hovered;
-make the drop-down li list items change background colour to **rgb(185, 211, 121)** when hovered;
+* Make the top level li list items change background colour to **rgb(121, 185, 211)** when hovered;
+* make the drop-down li list items change background colour to **rgb(185, 211, 121)** when hovered;
 ## Hiding and showing the drop-downs
 * Add **display**: **none**; to the inside **ul** list elements (The lists inside the other list) so they disappear.
 * Add **display**: **block**; to the inside **ul** list elements (The lists inside the other list) but only when the **li** element is hovered on so they appear again! (Hint, use this selector: **nav** > **ul** > **li**:**hover** > **ul**).
