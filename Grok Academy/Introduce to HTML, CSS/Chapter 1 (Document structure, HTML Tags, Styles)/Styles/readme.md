@@ -11,3 +11,6 @@ Add a **<style>** element to this page, and set the following properties inside 
 * The heading should use the font family **Verdana, Geneva, sans-serif**
 * Paragraphs should use the font family **Georgia, Times, serif**
 * The span should use the font family <font color="green">'Courier New'</font>, monospace
+
+The result should look like this:
+![alt text](https://groklearning-cdn.com/problems/8c4bHWi6bj66sCtUNXJxu9/screenshot.png)
