@@ -1,3 +1,4 @@
+# It's not easy being green
 Kermit is experimenting with what shade of green to make the title of his new website, featuring himself.
 
 Each line should be a *heading level 1* element and contain two span elements, and they should be center aligned.
