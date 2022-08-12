@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
 * { box-sizing: border-box; } 
 /* Top */
 a {
@@ -69,41 +69,55 @@ nav > ul > li:hover > ul {
 }
 
 /* content */
+.notice1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: aliceblue;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 
-article {
+.notice2 {
+    text-align: center;
+    font-size: 25px;
+    background-color: aliceblue;
+    color: #688651;
+    padding-bottom: 80px;
+    font-family: 'Rubik Distressed', cursive;
+}
+
+div.content1, div.content2, div.content3, div.content4 {
+    background-color: aliceblue;
     width: 100%;
-    background-color: white;
-    border-radius: 50px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    font-size: 20px;
 }
 
-article.tymon > img, article.angus_young > img {
-    width: 30%;
-    margin: 100px;
+.good {
+    width: 300px;
+    padding: 30px;
+    margin-left: 150px;
+    margin-bottom: 100px;
+    text-align: center;
     display: inline-block;
-    border-radius: 100%;
+    vertical-align:top;
 }
 
-article.tymon > p , article.angus_young > p {
-    display: inline-block;
-    margin: 100px;
-    margin-left: -20px;
-    font-size: 30px;
-    vertical-align: top;
-    width: 50%;
+div.content2 > div.good > img, div.content3 > div.good > img,  div.content4 > div.good > img  {
+    width: 200px;
 }
 
-.title {
-    font-size: 60px;
-    display: inline-block;
-    border-bottom: 2px black solid;
-    font-family: 'Bebas Neue', cursive;
+div.content2 > div.good:hover, div.content3 > div.good:hover, div.content4 > div.good:hover {
+    background-color: gray;
+    border-radius: 20px;
 }
 
+div.content1 > div.good > p {
+    font-size: 25px;
+}
 
-
-
+.price {
+    font-size: 32px;
+}
 /* Footer */
 
 footer {

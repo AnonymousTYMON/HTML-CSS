@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 * { box-sizing: border-box; } 
 /* Top */
 a {
@@ -68,7 +68,7 @@ nav > ul > li:hover > ul {
     display: block;
 }
 
-/* article */
+/* content */
 
 article {
     width: 100%;
@@ -78,36 +78,34 @@ article {
     margin-bottom: 50px;
 }
 
-article.key_message > img {
-    display: inline-block;
+article.tymon > img, article.angus_young > img , article.greta_thunberg > img {
     width: 30%;
-    padding: 50px;
+    margin: 100px;
+    display: inline-block;
     border-radius: 100%;
+    border: 4px rgb(68, 188, 68) solid;
 }
 
-article.key_message > p {
+article.tymon > p , article.angus_young > p, article.greta_thunberg > p {
     display: inline-block;
+    margin: 100px;
+    margin-left: -20px;
+    font-size: 30px;
     vertical-align: top;
-    padding: 50px;
-    font-size: 25px;
-}
-
-article.about_us > p {
-    font-size: 25px;
-    padding: 50px;
-    display: inline-block;
-}
-
-article.about_us > img {
-    width: 40%;
-    border-radius: 100%;
+    width: 50%;
+    line-height: 1.5;
 }
 
 .title {
     font-size: 60px;
-    font-family: 'Square Peg', cursive;
+    display: inline-block;
+    border-bottom: 2px black solid;
+    font-family: 'Bebas Neue', cursive;
 }
 
+.dare {
+    font-size: 50px;
+}
 
 
 /* Footer */
