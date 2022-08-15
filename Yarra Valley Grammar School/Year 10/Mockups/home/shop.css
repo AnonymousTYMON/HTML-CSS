@@ -111,9 +111,7 @@ div.content2 > div.good:hover, div.content3 > div.good:hover, div.content4 > div
     border-radius: 20px;
 }
 
-div.content1 > div.good > p {
-    font-size: 25px;
-}
+
 
 .price {
     font-size: 32px;

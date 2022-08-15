@@ -77,15 +77,6 @@ nav > ul > li:hover > ul {
     background-repeat: no-repeat;   
 }
 
-
-div > p {
-    text-align: center;
-    font-size: 60px;
-    background-color: rgb(68, 188, 68);
-    width: 1000px;
-    border-radius:  100px 10px 100px 10px;
-}
-
 p {
     vertical-align: top;
     display: inline-block;
